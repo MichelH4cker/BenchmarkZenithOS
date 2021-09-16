@@ -1,4 +1,9 @@
 # BenchmarkZenithOS
-Repositório com os arquivos de Benchmark feito no sistema operacional Zenith, além de conter todo um passo a passo ensinando como fazer os próprios testes em diversos sistemas.
+Este repositório contém os arquivos de Benchmark feito no sistema operacional Zenith, além de possuir um guia de como conduzir os próprios testes em diferentes sistemas.
+
+## Environment and tools
+- Sysbench
+- systemd-analyze
 
 ## Steps to run and Debug
+Todas as ferramentas citadas acima terem sido instaladas.
