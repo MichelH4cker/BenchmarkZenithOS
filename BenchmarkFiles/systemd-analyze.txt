@@ -1,0 +1,2 @@
+Startup finished in 3.700s (kernel) + 24.779s (userspace) = 28.480s 
+multi-user.target reached after 24.259s in userspace
